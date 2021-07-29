@@ -5,6 +5,10 @@ title: About
 
 Hello.
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+Glad to see you visit my blog.
+I am Take it easy, but you can call me Tiez.
+In here, you can read all about my notes, quotes, tutorials,... and everything i'm interested in
+So, let get fun ^^
 
-**Less is more..**
+
+**Keep our mind take it easy**
